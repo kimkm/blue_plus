@@ -1,6 +1,6 @@
 # blue_plus
 
-A new Flutter project.
+flutter_blue_plus를 이용한 ibeacon블루투스 심플 검색 Sample 
 
 ## Getting Started
 
